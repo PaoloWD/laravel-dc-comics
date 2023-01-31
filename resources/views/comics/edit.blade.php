@@ -42,7 +42,7 @@
         </label>
       </div>
     </div>
-    <div class="d-flex">
+    <div class=" gap-3 d-flex">
         <button class="btn btn-primary" type="submit">Carica fumetto</button>
         <a href="{{ route('comics.index') }}" class="btn btn-danger">Annulla</a>
     </div>
